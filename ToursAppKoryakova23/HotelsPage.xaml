@@ -9,7 +9,7 @@
       Title="HotelsPage">
 
     <Grid>
-        <Button Content="Go" Background="#fac716" Margin="5"  Width="175" Height="30"
+        <Button Content="Go" Background="#fac716" 
                 Click="Button_Click"></Button>
         
     </Grid>
